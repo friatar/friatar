@@ -43,15 +43,6 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=friatar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=friatar&theme=radical" width="48%" />
-</p>
-
----
-
 ### ✨ Terminal Vibes
 
 ```bash
