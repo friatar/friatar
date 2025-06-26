@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Anirban 👨‍💻</h1>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3700838" style='border:none;'></iframe>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Cybersecurity+Explorer...;Code+Alchemist...;Terminal+Enthusiast..." alt="Typing SVG" />
 </p>
