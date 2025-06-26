@@ -29,7 +29,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 <p align="center">
   <a href="https://tryhackme.com/p/AnirbanTarafdar" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AnirbanTarafdar.png" alt="TryHackMe" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/friatarn17.png" alt="Your Image Badge" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnirbanTarafdar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirbanTarafdar&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=friatar&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=friatar&theme=radical" width="48%" />
 </p>
 
 ---
