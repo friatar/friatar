@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Anirban 👨‍💻</h1>
+<h1 align="center">Hey there, I'm Anirban</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Cybersecurity+Explorer...;Code+Alchemist...;Terminal+Enthusiast..." alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🔍 About Me
+### About Me
 - 🛡️ Cybersecurity enthusiast diving deep into secure networks & systems
 - 💻 Working on VANET Secure Routing (NS-3 + SUMO)
 - ⚔️ Break. Learn. Secure.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ```bash
 Languages: Python • Bash • C • JavaScript
@@ -25,7 +25,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 ---
 
-### 🏅 My TryHackMe Badge
+### My TryHackMe Badge
 
 <p align="center">
   <a href="https://tryhackme.com/p/AnirbanTarafdar" target="_blank">
@@ -35,7 +35,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirban-tarafdar)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirbanTarafdar)
@@ -43,7 +43,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 ---
 
-### ✨ Terminal Vibes
+### Terminal Vibes
 
 ```bash
 > whoami
