@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack
 
 ```bash
-Languages: Python • Bash • C/C++ • JavaScript
+Languages: Python • Bash • C • JavaScript
 Tools: Kali Linux • Wireshark • Nmap • Git • Burp Suite
 Domain: Network Security • Ethical Hacking • Protocol Design
 ```
@@ -29,7 +29,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 <p align="center">
   <a href="https://tryhackme.com/p/AnirbanTarafdar" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/friatarn17.png" alt="My Badge"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/friatarn17.png" alt="My Badge" />
   </a>
 </p>
 
