@@ -29,7 +29,7 @@ Domain: Network Security • Ethical Hacking • Protocol Design
 
 <p align="center">
   <a href="https://tryhackme.com/p/AnirbanTarafdar" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/AnirbanTarafdar.png" alt="TryHackMe"> 
+   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3700838" alt="TryHackMe"> 
   </a>
 </p>
 
